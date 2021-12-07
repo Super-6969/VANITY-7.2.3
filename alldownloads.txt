@@ -1,0 +1,20 @@
+0x2c62770 (174): https://cdn.discordapp.com/attachments/817556293987860491/897623813162950667/Mapper.exe
+0x2c62822 (172): https://cdn.discordapp.com/attachments/817138203386445904/878022113993306152/amide.sys
+0x2c628d2 (182): https://cdn.discordapp.com/attachments/817138203386445904/878022116946087976/amifldrv64.sys
+
+0x2c64b86 (194): https://cdn.discordapp.com/attachments/909524244638101504/915396227418443816/dumper.jar
+
+0x2c64b86 (228): https://cdn.discordapp.com/attachments/909524244638101504/915386681392267264/Xbox_Accessory_Management_Service.reg
+0x2c64c82 (206): https://cdn.discordapp.com/attachments/909524244638101504/915386681564225556/Xbox_Live_Auth_Manager.reg
+0x2c64d68 (200): https://cdn.discordapp.com/attachments/909524244638101504/915386682214330408/Xbox_Live_Game_Save.reg
+0x2c64e48 (218): https://cdn.discordapp.com/attachments/909524244638101504/915386682377928704/Xbox_Live_Networking_Service.reg
+0x2c6616a (196): https://cdn.discordapp.com/attachments/903483330870259722/904194234125545482/Windows_Activator.exe
+
+0x2c6543c (164): https://cdn.discordapp.com/attachments/903448172934877194/917261735285641266/ddos.py
+0x2c6543c (164): https://cdn.discordapp.com/attachments/853847270281707520/877722146317684766/Cleaner.bat
+0x2c67d72 (184): https://cdn.discordapp.com/attachments/895189892236214282/903115819758792704/nvidia-smi.exe
+0x2c681a0 (194): https://cdn.discordapp.com/attachments/817556293987860491/891843559114825858/ec600118ef9a8212.exe
+0x2c68064 (172): https://cdn.discordapp.com/attachments/903432883958603828/916820077544890428/purpgay_1.at
+0x2c6837c (170): https://cdn.discordapp.com/attachments/817187900302426113/842512159267356693/R6S.bat
+0x2c6852e (204): https://cdn.discordapp.com/attachments/903432883958603828/907786107528290314/Apex.bat
+0x2c686fe (178): https://cdn.discordapp.com/attachments/817388888145788948/899842821605978182/Valorant.bat

@@ -1,0 +1,4 @@
+0x3cdc7fc (114): https://cdn.discordapp.com/attachments/909524244638101504/915386681392267264/Xbox_Accessory_Management_Service.reg
+0x3cdc880 (103): https://cdn.discordapp.com/attachments/909524244638101504/915386681564225556/Xbox_Live_Auth_Manager.reg
+0x3cdc8f8 (100): https://cdn.discordapp.com/attachments/909524244638101504/915386682214330408/Xbox_Live_Game_Save.reg
+0x3cdc96c (109): https://cdn.discordapp.com/attachments/909524244638101504/915386682377928704/Xbox_Live_Networking_Service.reg
